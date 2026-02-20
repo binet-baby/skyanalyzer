@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sky Visibility Analyzer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>🌌 Sky Visibility & Pollution Analyzer</h1>
+
+    <div class="upload-section">
+        <div class="card">
+            <h2>Upload Night 1</h2>
+            <input type="file" id="image1" accept="image/*">
+            <img id="preview1" class="preview">
+            <div class="results" id="result1">
+                <p>Stars: --</p>
+                <p>Visibility: --</p>
+                <p>Pollution: --</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>Upload Night 2</h2>
+            <input type="file" id="image2" accept="image/*">
+            <img id="preview2" class="preview">
+            <div class="results" id="result2">
+                <p>Stars: --</p>
+                <p>Visibility: --</p>
+                <p>Pollution: --</p>
+            </div>
+        </div>
+    </div>
+
+    <button onclick="compareImages()">🔍 Compare Sky</button>
+
+    <div class="comparison" id="comparisonResult">
+        <h2>Comparison Result</h2>
+        <p id="comparisonText">Upload images to compare.</p>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
