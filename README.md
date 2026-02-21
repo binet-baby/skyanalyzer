@@ -106,11 +106,11 @@ npx http-server
 
 ### Screenshots
 
-![Screenshot 1](Add screenshot 1 here) - Main interface showing upload cards and comparison button
+![Screenshot 1](https://github.com/binet-baby/skyanalyzer/blob/main/Screenshot%201.png) - Comparison of two different skys-output1
 
-![Screenshot 2](Add screenshot 2 here) - Results display after image upload and analysis
+![Screenshot 2](https://github.com/binet-baby/skyanalyzer/blob/main/Screenshot%202.png) - Comparison of two different skys-output2
 
-![Screenshot 3](Add screenshot 3 here) - Comparison results showing which night has clearer skies
+![Screenshot 3](https://github.com/binet-baby/skyanalyzer/blob/main/Screenshot%203.png) - Comparison of two different skys-output3
 
 ### Diagrams
 
