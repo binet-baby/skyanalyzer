@@ -2,12 +2,12 @@
 
 ## Basic Details
 
-**Team Name:** [Your Team Name]
+**Team Name:** [Lowkey Tech]
 
 ### Team Members
 
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Binet Baby] - [Vishwajyothi College of Engineering and Technology]
+- Member 2: [Jyothika k S] - [Vishwajyothi College of Engineering and Technology]
 
 ### Hosted Project Link
 
