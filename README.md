@@ -157,6 +157,10 @@ Display Results & Comparison Summary
 
 ---
 
+## Project Demo
+
+https://drive.google.com/file/d/1ePboJ30BO3bEOQDWIXpfRj1n5TwhZVtJ/view?usp=sharing
+
 ## How It Works
 
 1. **Image Upload**: Users select images using file input fields
